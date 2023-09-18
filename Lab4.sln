@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpeedOfSound", "SpeedOfSound\SpeedOfSound.csproj", "{5273AF09-632B-414E-A7B2-26A4632DC2EC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{9D2FBE24-E7BC-4F35-BA7E-A59E32515E92}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AudioBooks", "AudioBooks\AudioBooks.csproj", "{3DE5ACE3-84C4-460D-B23B-022CF67BCA2E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankCharges", "BankCharges\BankCharges.csproj", "{B46EC5EB-8F37-4FBA-B552-01E3C1721160}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5273AF09-632B-414E-A7B2-26A4632DC2EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5273AF09-632B-414E-A7B2-26A4632DC2EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5273AF09-632B-414E-A7B2-26A4632DC2EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5273AF09-632B-414E-A7B2-26A4632DC2EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3DE5ACE3-84C4-460D-B23B-022CF67BCA2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DE5ACE3-84C4-460D-B23B-022CF67BCA2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DE5ACE3-84C4-460D-B23B-022CF67BCA2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DE5ACE3-84C4-460D-B23B-022CF67BCA2E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B46EC5EB-8F37-4FBA-B552-01E3C1721160}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B46EC5EB-8F37-4FBA-B552-01E3C1721160}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B46EC5EB-8F37-4FBA-B552-01E3C1721160}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B46EC5EB-8F37-4FBA-B552-01E3C1721160}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {02FAE097-A143-4C70-891B-5D4AEC022F3C}
+	EndGlobalSection
+EndGlobal
